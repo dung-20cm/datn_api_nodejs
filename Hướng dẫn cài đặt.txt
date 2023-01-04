@@ -1,0 +1,5 @@
+-Khởi chạy dự án bằng Visual Studio
+-Mở Terminal ở trên thanh công cụ hoặc bằng tổ hợp phím Ctrl + Shift + `
+-Gõ câu lệnh: yarn      -để thực hiện cài đặt các thư viện của project
+-Dùng xampp thực hiện execute doantotnghiep_laravel_shopgiay.sql để tạo các bảng dữ liệu 
+-Để chạy api kết nối với dữ liệu bên xampp, vào terminal gõ câu lệnh: npm run start:dev
